@@ -1,7 +1,5 @@
 # CompassLabs-DataAnalysis
 
-
 # Pre Requisites:
 
-# Install dojo: insert command here
-# install Jupyter Notebook: insert command here
+Install psycopg2: pip install psycopg2
